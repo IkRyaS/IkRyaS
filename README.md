@@ -2,9 +2,7 @@
 
 ![Telegram](https://smoservice.media/upload/iblock/cac/cac73cd1e4432c15ac1dec4f9a6ec92b.png "Telegram")
 
-![Discord](https://i.ibb.co/hmsHVDh/discord.jpg "Discord")
-
-
+</a href="https://discordapp.com/users/577110888595849216/"><img src="https://i.ibb.co/hmsHVDh/discord.jpg"></a>
 
 
 
@@ -23,6 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Discord](https://i.ibb.co/hmsHVDh/discord.jpg "Discord")
 
 
 colorText = F71347D7
