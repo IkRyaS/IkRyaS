@@ -1,6 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71347D7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hello!+I'm+IkRyaS)](https://git.io/typing-svg)
 
-![Telegram](https://smoservice.media/upload/iblock/cac/cac73cd1e4432c15ac1dec4f9a6ec92b.png "telegram")
+![Telegram](https://smoservice.media/upload/iblock/cac/cac73cd1e4432c15ac1dec4f9a6ec92b.png "Telegram")
+
+![Discord](https://i.ibb.co/hmsHVDh/discord.jpg "Discord")
 
 
 
@@ -26,4 +28,6 @@ Here are some ideas to get you started:
 colorText = F71347D7
 
 https://github.com/DenverCoder1
+https://shields.io/
+https://habr.com/ru/articles/649363/
 -->
