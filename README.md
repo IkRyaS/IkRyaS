@@ -1,27 +1,26 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71347D7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hello!+I'm+IkRyaS)](https://git.io/typing-svg)
 
-<div>
-<tbody>
-<tr>
-<td align="center">
-    </a href="https://t.me/kirulloffix">
-        <img src="https://smoservice.media/upload/iblock/cac/cac73cd1e4432c15ac1dec4f9a6ec92b.png" width="50px;" alt="wizardforcel" >
-    </a>
-    </br>
-</td>
 
-<td align="center">
-    </a href="https://discordapp.com/users/577110888595849216/">
-        <img src="assets/discord.jpg" width="50px;" alt="wizardforcel" >
-    </a>
-    </br>
-</td>
-</tr>
-</tbody>
-</div>
+
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto">
+
+<p align="center" dir="auto">
+  <a href="https://t.me/kirulloffix"><img width="32px" alt="Telegram" title="Telegram" src="https://smoservice.media/upload/iblock/cac/cac73cd1e4432c15ac1dec4f9a6ec92b.png" style="max-width: 100%;"></a>
+  <a href="https://discordapp.com/users/577110888595849216/"><img width="32px" alt="Discord" title="Discord" src="assets/discord.jpg" style="max-width: 100%;"></a>
+
+</article>
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IkRyaS&theme=apprentice&border_radius=5&card_width=500)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
 
 <!--
 **IkRyaS/IkRyaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
