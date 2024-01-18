@@ -1,10 +1,23 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71347D7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hello!+I'm+IkRyaS)](https://git.io/typing-svg)
 
-![Telegram](https://smoservice.media/upload/iblock/cac/cac73cd1e4432c15ac1dec4f9a6ec92b.png "Telegram")
 
-</a href="https://discordapp.com/users/577110888595849216/"><img src="https://i.ibb.co/hmsHVDh/discord.jpg"></a>
+<tbody>
+<tr>
+<td align="center">
+    </a href="https://t.me/kirulloffix">
+        <img src="https://smoservice.media/upload/iblock/cac/cac73cd1e4432c15ac1dec4f9a6ec92b.png" width="50px;" alt="wizardforcel" >
+    </a>
+     </br>
+</td>
 
-
+<td align="center">
+    </a href="https://discordapp.com/users/577110888595849216/">
+        <img src="assets/discord.jpg" width="50px;" alt="wizardforcel" >
+    </a>
+    </br>
+</td>
+</tr>
+</tbody>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IkRyaS&theme=apprentice&border_radius=5&card_width=500)](https://git.io/streak-stats)
 
