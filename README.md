@@ -3,15 +3,16 @@
 <div class="Box-body p-4">
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto">
 
-<p align="center" dir="auto"><strong>
+<p align="center" dir="auto">
   <a href="https://github.com/IkRyaS">
-    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009581FF&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=Kirill+Makarchev" alt="Kirill Makarchev" style="max-width: 100%;"></a>
-</strong>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=009581&center=true&vCenter=true&random=false&width=435&lines=Kirill+Makarchev" alt="Kirill Makarchev" style="max-width: 100%;">
+  </a>
 </p>
 
+
 <p align="center" dir="auto">
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009581FF&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=4+years+of+active+study+of+programming;Always+strive+for+more+by+learning+something+new" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=009581&center=true&vCenter=true&random=false&width=435&lines=4+years+of+active+study+of+programming;Always+strive+for+more+by+learning+something+new" alt="Description" />
+  </a>
 </p>
 
 <p align="center" dir="auto">
@@ -36,7 +37,12 @@
 <!--
 
 colorText = 009581FF
-Красно-розовый = F75C7E
+
+Description:
+4 years of active study of programming
+Always strive for more by learning something new
+
+
 
 https://github.com/DenverCoder1
 https://shields.io/
