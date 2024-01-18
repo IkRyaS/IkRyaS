@@ -5,10 +5,9 @@
 
 <p align="center" dir="auto">
   <a href="https://github.com/IkRyaS">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=009581&center=true&vCenter=true&random=false&width=435&lines=Kirill+Makarchev" alt="Kirill Makarchev" style="max-width: 100%;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=009581&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%9B%D0%9E%D0%96%D0%AC&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=Kirill+Makarchev" alt="Kirill Makarchev" style="max-width: 100%;">
   </a>
 </p>
-
 
 <p align="center" dir="auto">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=009581&center=true&vCenter=true&random=false&width=435&lines=4+years+of+active+study+of+programming;Always+strive+for+more+by+learning+something+new" alt="Description" />
@@ -16,8 +15,8 @@
 </p>
 
 <p align="center" dir="auto">
-  <a href="https://t.me/kirulloffix"><img width="32px" alt="Telegram" title="Telegram" src="https://smoservice.media/upload/iblock/cac/cac73cd1e4432c15ac1dec4f9a6ec92b.png" style="max-width: 100%;"></a>
-  <a href="https://discordapp.com/users/577110888595849216/"><img width="32px" alt="Discord" title="Discord" src="https://e7.pngegg.com/pngimages/774/116/png-clipart-computer-icons-discord-logo-smiley-emoticon-smiley-miscellaneous-blue-thumbnail.png" style="max-width: 100%;"></a>
+  <a href="https://t.me/kirulloffix"><img width="32px" alt="Telegram" title="Telegram" src="assets/iconTelegram.png" style="max-width: 100%;"></a>
+  <a href="https://discordapp.com/users/577110888595849216/"><img width="32px" alt="Discord" title="Discord" src="assets/iconDiscord.png" style="max-width: 100%;"></a>
 </p>
 
 </article>
