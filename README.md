@@ -15,7 +15,7 @@
 </p>
 
 <p align="center" dir="auto">
-  <a href="https://t.me/kirilloffix"><img width="32px" alt="Telegram" title="Telegram" src="assets/iconTelegram.png" style="max-width: 100%;"></a>
+  <a href="https://t.me/kirulloffix"><img width="32px" alt="Telegram" title="Telegram" src="assets/iconTelegram.png" style="max-width: 100%;"></a>
   <a href="https://discordapp.com/users/577110888595849216/"><img width="32px" alt="Discord" title="Discord" src="assets/iconDiscord.png" style="max-width: 100%;"></a>
 </p>
 
