@@ -1,23 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/IkRyaS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=009581&center=true&vCenter=true&width=500&lines=Kirill+Makarchev;Python+Developer;Open+Source+Enthusiast" alt="Kirill Makarchev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=009581&center=true&vCenter=true&width=500&lines=Kirill+Makarchev;Python+Developer;SDET+Engineer" alt="Kirill Makarchev" />
 </a>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=009581&center=true&vCenter=true&width=600&lines=4+years+of+programming+experience;Passionate+about+clean+code+and+best+practices;Focus+on+scalable+and+maintainable+solutions" alt="Description" />
-  </a>
-</p>
-
-<h3 align="center">Connect</h3>
-<p align="center">
-  <a href="https://t.me/kirulloffix" target="_blank">
-    <img width="32px" alt="Telegram" title="Telegram" src="https://raw.githubusercontent.com/IkRyaS/IkRyaS/main/assets/pic/iconTelegram.png" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/577110888595849216/" target="_blank">
-    <img width="32px" alt="Discord" title="Discord" src="https://raw.githubusercontent.com/IkRyaS/IkRyaS/main/assets/pic/iconDiscord.png" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=009581&center=true&vCenter=true&width=600&lines=4+years+of+programming+experience;Backend+development+and+test+automation;Focus+on+quality+and+scalable+solutions" alt="Description" />
   </a>
 </p>
 
@@ -44,57 +33,30 @@
 
 ## About
 
-Python developer with 4 years of programming experience focused on backend development. Specialize in creating efficient, scalable solutions using modern technologies and best practices.
+Python developer and SDET engineer with 4 years of programming experience. Specialize in backend development, test automation, and quality assurance. Focus on creating robust, testable, and scalable software solutions.
 
 ## Technical Stack
 
 ### Languages & Frameworks
-**Primary**: Python, Django, FastAPI, Flask  
-**Additional**: JavaScript, HTML/CSS, SQL
+**Primary**: Python, FastAPI  
+**Additional**: HTML/CSS, SQL, C++  
+**Testing & QA**: SDET, QA methodologies, test automation
 
 ### Databases
 PostgreSQL, MySQL, SQLite, MongoDB, Redis
 
 ### Tools & Infrastructure
-Git, Docker, Linux, Nginx, GitHub Actions, Postman
+Git, Docker, Linux, Nginx, GitHub Actions, Postman, Jenkins
 
 ### Current Focus
-React, Go, Kubernetes, AWS
-
-## Recent Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[Task Management System](https://github.com/IkRyaS/)** | Web application with real-time updates | Django, Redis, WebSockets |
-| **[E-commerce API](https://github.com/IkRyaS/)** | REST API with payment integration | FastAPI, PostgreSQL, JWT |
-| **[Data Analysis Tool](https://github.com/IkRyaS/)** | Processing large datasets | Pandas, NumPy, PostgreSQL |
-| **[Telegram Bot](https://github.com/IkRyaS/)** | AI-powered assistant | Python, Aiogram, OpenAI API |
+SDET practices, test automation frameworks, CI/CD optimization
 
 ## Development Principles
 
-- **Code Quality**: Emphasis on readability, maintainability, and comprehensive testing
-- **Architecture**: Scalable system design with clear separation of concerns
-- **Documentation**: Detailed technical documentation and deployment guides
-- **Automation**: CI/CD pipelines for testing and deployment
-
-## Learning & Development
-
-Currently studying system design, microservices architecture, and performance optimization. Regularly contribute to open-source projects and follow industry best practices.
-
-## Professional Objectives
-
-- Contribute to major open-source projects
-- Master full-stack development capabilities
-- Obtain AWS certification
-- Develop and launch independent projects
-
-## Collaboration
-
-Available for:
-- Complex backend development projects
-- Open-source contributions in Python ecosystem
-- Technical discussions and architecture design
-- Mentoring opportunities
+- **Code Quality**: Emphasis on testability, maintainability, and comprehensive test coverage
+- **Automation**: Automated testing and CI/CD pipelines for reliable deployments
+- **Documentation**: Clear technical documentation and testing procedures
+- **Quality Assurance**: Integration of QA processes throughout development lifecycle
 
 <div align="center">
 
@@ -112,7 +74,7 @@ Available for:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=009581&center=true&vCenter=true&width=500&lines=Continuous+learning+and+professional+growth" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=009581&center=true&vCenter=true&width=500&lines=Quality+through+automation+and+best+practices" alt="Footer" />
 </p>
 
 </div>
