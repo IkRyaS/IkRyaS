@@ -1,12 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/IkRyaS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=009581&center=true&vCenter=true&width=500&lines=Kirill+Makarchev;Python+Developer;SDET+Engineer" alt="Kirill Makarchev" />
-</a>
+# <span style="color:#009581">Kirill Makarchev</span>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=009581&center=true&vCenter=true&width=600&lines=4+years+of+programming+experience;Backend+development+and+test+automation;Focus+on+quality+and+scalable+solutions" alt="Description" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=009581&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+development+and+test+automation;Focus+on+quality+and+scalable+solutions" alt="Description" />
   </a>
 </p>
 
