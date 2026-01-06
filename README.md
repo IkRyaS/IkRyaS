@@ -33,17 +33,16 @@
 
 ## About
 
-Python developer and SDET engineer with 4 years of programming experience. Specialize in backend development, test automation, and quality assurance. Focus on creating robust, testable, and scalable software solutions.
+Python developer and SDET engineer. Specialize in backend development, test automation, and quality assurance. Focus on creating robust, testable, and scalable software solutions.
 
 ## Technical Stack
 
 ### Languages & Frameworks
-**Primary**: Python, FastAPI  
-**Additional**: HTML/CSS, SQL, C++  
-**Testing & QA**: SDET, QA methodologies, test automation
+**Primary**: Python, FastAPI, aiogram, PyTest  
+**Additional**: SQL, C++  
 
 ### Databases
-PostgreSQL, MySQL, SQLite, MongoDB, Redis
+PostgreSQL, MySQL, SQLite, MongoDB
 
 ### Tools & Infrastructure
 Git, Docker, Linux, Nginx, GitHub Actions, Postman, Jenkins
