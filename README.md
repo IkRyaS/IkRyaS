@@ -40,20 +40,15 @@ Python developer and SDET engineer. Specialize in backend development, test auto
 **Additional**: SQL, C++  
 
 ### Databases
-PostgreSQL, MySQL, SQLite, MongoDB
+PostgreSQL, MySQL, SQLite
 
 ### Tools & Infrastructure
-Git, Docker, Linux, Nginx, GitHub Actions, Postman, Jenkins
+Git, Docker, Linux, GitHub Actions, Postman, Jenkins
 
 ### Current Focus
 SDET practices, test automation frameworks, CI/CD optimization
 
-## Development Principles
 
-- **Code Quality**: Emphasis on testability, maintainability, and comprehensive test coverage
-- **Automation**: Automated testing and CI/CD pipelines for reliable deployments
-- **Documentation**: Clear technical documentation and testing procedures
-- **Quality Assurance**: Integration of QA processes throughout development lifecycle
 
 <div align="center">
 
