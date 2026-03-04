@@ -22,7 +22,6 @@
 
 </div>
 
----
 
 ## Technical Stack
 
@@ -34,20 +33,8 @@
 Git, Docker, Linux, GitHub Actions, Postman, Jenkins
 
 
-
 <div align="center">
-
-<h3>Contact</h3>
-<p align="center">
-  <a href="https://t.me/kirulloffix" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=009581&center=true&vCenter=true&width=500&lines=Quality+through+automation+and+best+practices" alt="Footer" />
 </p>
-
 </div>
