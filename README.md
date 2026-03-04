@@ -29,7 +29,7 @@
 
 ### Tools & Infrastructure
 
-Git, Docker, Linux, GitHub Actions, Postman, Jenkins
+PyCharm, VS, Git, Docker, Linux, Windows, Postman, Jenkins, Postgress, SQLite, DBeaver
 
 
 <div align="center">
