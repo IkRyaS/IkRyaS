@@ -1,6 +1,6 @@
 <div align="center">
   
-# <span style="color:#009581">Kirill Makarchev</span>
+# <span style="color:#009581">Kirill</span>
 
 <p align="center">
 
