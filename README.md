@@ -1,7 +1,5 @@
 <div align="center">
 
-# <span style="color:#009581">Kirill</span>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=009581&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+development+and+test+automation" alt="Description" />
